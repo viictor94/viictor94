@@ -1,0 +1,5 @@
+- 👋 Hola mi nombre es: Emmanuel 
+- 👀 Me interesa el desarrollo web, soy un amante de la tecnologia
+- 🌱 En la actualidad estoy haciendo un curso fullstack de Nucba 
+- 💞️ IMe encantaria trabajar en proyectos donde pueda adquirir experiencia trabajando en equipo
+- 📫 contactame por mail: zamorano.94@outlook.com
